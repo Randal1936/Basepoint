@@ -1,2 +1,2 @@
 # Basepoint
-A repository that will be linked with Rstudio
+From a dog working on financial data
